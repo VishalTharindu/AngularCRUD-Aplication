@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+input.ng-invalid.ng-touched{
+    border-color: brown;
+}
+div.validation-error{
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 80%;
+    color: rgb(202, 86, 86);
+}
+
+/* table.table-hover tbody tr:hover {
+    cursor: pointer;
+} */
